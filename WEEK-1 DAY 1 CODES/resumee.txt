@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <H1> RESUME</H1>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1>
+    NAME:
+</h1>
+<body>
+    M.T.P.SAI PAVAN
+</body>
+<H2>
+    OVERVIEW:
+</H2>
+
+<body>
+    Passionate about Implementation of New Projects. Looking to start the career as an entry level software engineer with a reputed firm driven by technology.
+</body>
+<H2>
+    SKILLS:
+</H2>
+<Body>
+    C, Java, HTML, MySQL, CSS, Javascript, Data Structures ,Python
+</Body>
+<H3>
+    EDUCATION:
+</H3>
+<body>
+   <h3>
+       Parul University
+
+   </h3> 
+    B.Tech. - CSE - PIET | CGPA: 7.40 / 10.00 2018
+    <h3>
+        TIRUMALA EDUCATIONAL INSTITUTIONS
+
+    </h3>  12th | BIEAP | CGPA: 9.60 / 10.00 2016 
+    <h3>
+        Sir Cv Raman Public school, Amalapuram 
+    </h3>
+    10th | BSEAP | CGPA: 9.80 / 10.00
+</body>
+<H1>
+    PROJECTS:
+</H1>
+<BODY>
+   <H1>
+    Simple interest calculator
+</H1>
+ Mentor: Sheetal 
+ | Team Size: 2 Key Skills: Java Basic simple interest calculator.
+</BODY>
+<h1>
+    Email id
+</h1>
+<body>
+    Pavanmopuri8140@gmail.com
+</body>
+<h2>
+    contact
+</h2>
+<body>
+9581846514
+</body>
+</html>

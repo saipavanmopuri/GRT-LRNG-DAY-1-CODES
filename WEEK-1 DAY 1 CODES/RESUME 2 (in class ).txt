@@ -1,0 +1,38 @@
+DOCTYPE <html>
+
+ <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible content
+    <meta name = "viewport" content="width-device-width, Initial-scale-1.0">
+     <title>Great Learning</title>
+</head>
+<style> 
+    table, th, td {
+       border: 0.5px solid black;
+       border-collapse:collapse;
+    }
+</style>
+<body align="centre">
+    <hl centre-align="centre">PROFILE</h1>
+    <img src="C:\Users\HP\Desktop\180303105162_SAI PAVAN.jpg" alt=""">
+    <ol>
+       <li>Name: PAVAN</li>
+       <li>Age:21</li>
+       <li>DOB: 14/02/2001</li>
+       <li>Address:RAJAHMUNDRY</li>
+    </ol>
+    <table>
+        <tr>
+           <th>s.no</th>
+           <th>Institution</th>
+           <th>Qualification</th>
+        </tr>
+         <tr>
+             <td>1</td>
+             <td>tirumla</td>
+             <td>SSC</td>
+
+</body>
+</html>
+
